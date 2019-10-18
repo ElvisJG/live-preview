@@ -1,1 +1,1 @@
-#Small application that creates embeds from urls
+# Small application that creates embeds from urls
